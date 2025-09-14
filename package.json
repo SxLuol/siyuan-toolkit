@@ -1,0 +1,1 @@
+{"name": "siyuan-toolkit", "version": "0.1.0", "description": "A toolkit plugin for SiYuan Note", "main": "dist/index.js", "scripts": {"build": "tsc", "dev": "tsc --watch"}, "license": "AGPL-3.0", "author": "SxLuol", "dependencies": {}, "devDependencies": {"typescript": "^5.0.0"}}
